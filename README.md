@@ -1,6 +1,6 @@
 # Phyllotaxis
 
-writed using Pygame
+using Pygame
 
 angle = 137.5
 
